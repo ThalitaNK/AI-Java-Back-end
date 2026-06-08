@@ -1,6 +1,6 @@
 
 
-A sugestão de ouro é focar no Desenvolvimento Backend com .NET.
+Focar no Desenvolvimento Backend.
 
 1. Configuração do Ambiente e Compilação (JDK e IDE)
 Antes de escrever a primeira linha de código, você precisa entender o ecossistema básico do Java.
