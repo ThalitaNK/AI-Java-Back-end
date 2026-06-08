@@ -1,0 +1,28 @@
+
+
+A sugestão de ouro é focar no Desenvolvimento Backend com .NET.
+
+1. Configuração do Ambiente e Compilação (JDK e IDE)
+Antes de escrever a primeira linha de código, você precisa entender o ecossistema básico do Java.
+
+O que focar: Entender a diferença entre o JDK (Java Development Kit) e a JVM (Java Virtual Machine) — que é o que permite ao Java rodar em qualquer sistema. Configure a sua IDE (como o IntelliJ IDEA ou Eclipse) e aprenda a rodar o seu primeiro "Hello World" vendo como o código é compilado.
+
+2. Sintaxe Básica e Variáveis em Java
+Hora de traduzir o que você já sabe para a escrita do Java. Embora seja uma linguagem fortemente tipada muito parecida com o C#, existem pequenas diferenças de escrita.
+
+O que focar: Tipos de dados primitivos (int, double, boolean), manipulação de Strings, declaração de variáveis e constantes, e o uso de operadores aritméticos e lógicos.
+
+3. Estruturas de Controle de Fluxo e Repetição
+É a base para fazer o seu programa tomar decisões e executar tarefas repetitivas.
+
+O que focar: Condicionais (if, else if, else, switch-case) e laços de repetição (for, while, do-while). Crie pequenos algoritmos (como validadores ou contadores) para fixar como o Java se comporta nessas estruturas.
+
+4. Estruturas de Dados Básicas (Arrays e Vetores)
+Antes de entrar no módulo gigante de Collections do bootcamp, você precisa entender como o Java lida com conjuntos de dados nativos.
+
+O que focar: Como declarar, inicializar e percorrer arrays unidimensionais e multidimensionais (matrizes). Entenda como funciona o gerenciamento de índices e o tamanho fixo dessas estruturas na memória.
+
+5. Criação de Métodos (Funções) e Escopo
+Entender como dividir o seu código em blocos organizados, reutilizáveis e com responsabilidades bem definidas.
+
+O que focar: Como declarar métodos, definição de parâmetros de entrada, tipos de retorno (void ou tipos específicos) e o conceito de escopo de variáveis (o que nasce e morre dentro de uma função).

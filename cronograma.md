@@ -11,12 +11,12 @@ Marque o `[x]` conforme for concluindo cada tópico diário!
 ### Dia 1 (Foco: IA Moderna e Setup)
 - [x] Módulo: Boas-vindas ao Bootcamp
 - [x] Módulo: Potencializando Seus Estudos com IA (Entendendo o assistente da plataforma)
-- [ ] Módulo: Introdução a Engenharia de Prompts
-- [ ] Módulo: Fundamentos da IA Moderna (Visão Geral)
-- [ ] *Prática:* Criar prompts específicos para te ajudar a entender conceitos difíceis de Java.
+- [x] Módulo: Introdução a Engenharia de Prompts
+- [x] Módulo: Fundamentos da IA Moderna (Visão Geral)
+- [x] *Prática:* Criar prompts específicos para te ajudar a entender conceitos difíceis de Java.
 
 ### Dia 2 (Foco: Primeiros Passos com Java)
-- [ ] Módulo: Live de Lançamento / Mentorias Iniciais
+- [x] Módulo: Live de Lançamento / Mentorias Iniciais
 - [ ] Módulo: Introdução à Plataforma Java
 - [ ] Módulo: Ambiente de Desenvolvimento Java (Configuração da IDE e JDK)
 - [ ] *Prática:* Criar seu primeiro "Hello World" no IntelliJ ou Eclipse e rodar localmente.
