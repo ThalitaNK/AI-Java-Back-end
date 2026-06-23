@@ -1,14 +1,17 @@
 public class VerificadorDeHardware {
     
     public static void main(String[] args) {
-        
-        // 1. As variáveis originais no "main"
-        String modeloProcessador = "Ryzen 5 5500";
-        int temperaturaAtual = 95;
+    String modeloProcessador = "Ryzen 5 5500";
+    
+    // Nossa lista com 5 temperaturas diferentes
+    int[] listaTemperaturas = { 45, 88, 92, 30, 95 };
 
-        // 2. O envio da caixa (Passando o bastão)
-        exibirAlerta(modeloProcessador, temperaturaAtual);
+    // O loop que vai percorrer do índice 0 até o final da lista
+    for (int i = 0; i < listaTemperaturas.length; i++) {
+        // O desafio está aqui!
+        exibirAlerta(modeloProcessador, listaTemperaturas[i]);
     }
+}
 
     // 3. A porta de entrada do método recebendo a caixa
     public static void exibirAlerta(String modelo, int temperatura) {
